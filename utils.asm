@@ -16,7 +16,6 @@ _strlen_loop:
 _strlen_exit:
     ret
 
-;this function is taken from the same webiste as the itoa function
 ;HURRAH THIS ACTUALLY WORKS OMG
 ; rsi: a ptr to the string to be reversed (must be null-terminated)
 _revstr:
